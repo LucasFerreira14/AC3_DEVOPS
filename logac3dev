@@ -1,0 +1,100 @@
+2020-10-13T11:52:45.872428+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-13T11:52:45.872457+00:00 app[web.1]: * Debug mode: off
+2020-10-13T11:52:45.879852+00:00 app[web.1]: * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+2020-10-13T11:53:44.242570+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2020-10-13T11:53:44.260079+00:00 heroku[web.1]: Stopping process with SIGKILL
+2020-10-13T11:53:44.319605+00:00 heroku[web.1]: Process exited with status 137
+2020-10-13T11:53:44.358213+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-13T17:29:05.156089+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-13T17:29:09.881512+00:00 heroku[web.1]: Starting process with command `python primos.py`
+2020-10-13T17:29:13.101640+00:00 app[web.1]: * Serving Flask app "primos" (lazy loading)
+2020-10-13T17:29:13.101669+00:00 app[web.1]: * Environment: production
+2020-10-13T17:29:13.101722+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-13T17:29:13.101785+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-13T17:29:13.101834+00:00 app[web.1]: * Debug mode: off
+2020-10-13T17:29:13.114600+00:00 app[web.1]: * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+2020-10-13T17:30:10.381258+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2020-10-13T17:30:10.406635+00:00 heroku[web.1]: Stopping process with SIGKILL
+2020-10-13T17:30:10.494920+00:00 heroku[web.1]: Process exited with status 137
+2020-10-13T17:30:10.550096+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-13T22:57:27.896118+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-13T22:57:32.501838+00:00 heroku[web.1]: Starting process with command `python primos.py`
+2020-10-13T22:57:35.785465+00:00 app[web.1]: * Serving Flask app "primos" (lazy loading)
+2020-10-13T22:57:35.785494+00:00 app[web.1]: * Environment: production
+2020-10-13T22:57:35.785594+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-13T22:57:35.785655+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-13T22:57:35.785704+00:00 app[web.1]: * Debug mode: off
+2020-10-13T22:57:35.805630+00:00 app[web.1]: * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+2020-10-13T22:58:32.706342+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2020-10-13T22:58:32.733216+00:00 heroku[web.1]: Stopping process with SIGKILL
+2020-10-13T22:58:32.839326+00:00 heroku[web.1]: Process exited with status 137
+2020-10-13T22:58:32.891348+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-14T04:33:50.828587+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-14T04:33:54.201802+00:00 heroku[web.1]: Starting process with command `python primos.py`
+2020-10-14T04:33:56.707982+00:00 app[web.1]: * Serving Flask app "primos" (lazy loading)
+2020-10-14T04:33:56.708027+00:00 app[web.1]: * Environment: production
+2020-10-14T04:33:56.708027+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-14T04:33:56.708112+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-14T04:33:56.708165+00:00 app[web.1]: * Debug mode: off
+2020-10-14T04:33:56.719402+00:00 app[web.1]: * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+2020-10-14T04:34:54.524287+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2020-10-14T04:34:54.543741+00:00 heroku[web.1]: Stopping process with SIGKILL
+2020-10-14T04:34:54.633902+00:00 heroku[web.1]: Process exited with status 137
+2020-10-14T04:34:54.667329+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-14T10:02:10.667674+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-14T10:02:15.188615+00:00 heroku[web.1]: Starting process with command `python primos.py`
+2020-10-14T10:02:17.483999+00:00 app[web.1]: * Serving Flask app "primos" (lazy loading)
+2020-10-14T10:02:17.484057+00:00 app[web.1]: * Environment: production
+2020-10-14T10:02:17.484066+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-14T10:02:17.484155+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-14T10:02:17.484241+00:00 app[web.1]: * Debug mode: off
+2020-10-14T10:02:17.498796+00:00 app[web.1]: * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+2020-10-14T10:03:15.549516+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2020-10-14T10:03:15.575369+00:00 heroku[web.1]: Stopping process with SIGKILL
+2020-10-14T10:03:15.679870+00:00 heroku[web.1]: Process exited with status 137
+2020-10-14T10:03:15.719912+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-14T15:44:34.851169+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-14T15:44:38.615684+00:00 heroku[web.1]: Starting process with command `python primos.py`
+2020-10-14T15:44:41.064619+00:00 app[web.1]: * Serving Flask app "primos" (lazy loading)
+2020-10-14T15:44:41.064640+00:00 app[web.1]: * Environment: production
+2020-10-14T15:44:41.064690+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-14T15:44:41.064691+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-14T15:44:41.064725+00:00 app[web.1]: * Debug mode: off
+2020-10-14T15:44:41.077921+00:00 app[web.1]: * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+2020-10-14T15:45:39.181197+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2020-10-14T15:45:39.211023+00:00 heroku[web.1]: Stopping process with SIGKILL
+2020-10-14T15:45:39.293527+00:00 heroku[web.1]: Process exited with status 137
+2020-10-14T15:45:39.342488+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-14T21:39:14.746614+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-14T21:39:20.225044+00:00 heroku[web.1]: Starting process with command `python primos.py`
+2020-10-14T21:39:22.728424+00:00 app[web.1]: * Serving Flask app "primos" (lazy loading)
+2020-10-14T21:39:22.728480+00:00 app[web.1]: * Environment: production
+2020-10-14T21:39:22.728552+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-14T21:39:22.728605+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-14T21:39:22.728667+00:00 app[web.1]: * Debug mode: off
+2020-10-14T21:39:22.743710+00:00 app[web.1]: * Running on http://0.0.0.0:3000/ (Press CTRL+C to quit)
+2020-10-14T21:40:20.580451+00:00 heroku[web.1]: Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 seconds of launch
+2020-10-14T21:40:20.615274+00:00 heroku[web.1]: Stopping process with SIGKILL
+2020-10-14T21:40:20.705788+00:00 heroku[web.1]: Process exited with status 137
+2020-10-14T21:40:20.751968+00:00 heroku[web.1]: State changed from starting to crashed
+2020-10-14T23:27:37.324593+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=ac3dev.herokuapp.com request_id=f3231a1b-da0e-4f66-8e26-394a3c3abdf8 fwd="179.55.143.85" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-14T23:27:38.036954+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=ac3dev.herokuapp.com request_id=1fbc52bd-bc1d-441e-b9f8-fd865ea400c1 fwd="179.55.143.85" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-14T23:27:59.818458+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=ac3dev.herokuapp.com request_id=f324a47e-a517-4ddb-a977-d009588e9598 fwd="179.55.143.85" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-14T23:28:00.308490+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=ac3dev.herokuapp.com request_id=35331aca-2738-42d7-b6a8-05c3bba3264c fwd="179.55.143.85" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-14T23:33:47.000000+00:00 app[api]: Build started by user lucas.fsilva@aluno.faculdadeimpacta.com.br
+2020-10-14T23:34:27.402257+00:00 app[api]: Release v4 created by user lucas.fsilva@aluno.faculdadeimpacta.com.br
+2020-10-14T23:34:27.402257+00:00 app[api]: Deploy 90102754 by user lucas.fsilva@aluno.faculdadeimpacta.com.br
+2020-10-14T23:34:27.641183+00:00 heroku[web.1]: State changed from crashed to starting
+2020-10-14T23:34:30.718886+00:00 heroku[web.1]: Starting process with command `python primos.py`
+2020-10-14T23:34:33.301900+00:00 app[web.1]: * Serving Flask app "primos" (lazy loading)
+2020-10-14T23:34:33.301923+00:00 app[web.1]: * Environment: production
+2020-10-14T23:34:33.302000+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-14T23:34:33.302075+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-14T23:34:33.302141+00:00 app[web.1]: * Debug mode: off
+2020-10-14T23:34:33.328286+00:00 app[web.1]: * Running on http://0.0.0.0:56782/ (Press CTRL+C to quit)
+2020-10-14T23:34:33.504810+00:00 heroku[web.1]: State changed from starting to up
+2020-10-14T23:34:35.000000+00:00 app[api]: Build succeeded
+2020-10-14T23:35:36.955077+00:00 app[web.1]: 10.93.223.38 - - [14/Oct/2020 23:35:36] "GET / HTTP/1.1" 200 -
+2020-10-14T23:35:36.963464+00:00 heroku[router]: at=info method=GET path="/" host=ac3dev.herokuapp.com request_id=4c47da8d-663a-4f25-a80b-8b0bdbd232e1 fwd="179.55.143.85" dyno=web.1 connect=1ms service=25ms status=200 bytes=525 protocol=https
+2020-10-14T23:35:37.320918+00:00 app[web.1]: 10.93.223.38 - - [14/Oct/2020 23:35:37] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-14T23:35:37.329233+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ac3dev.herokuapp.com request_id=61d4f4fa-05e3-4832-8266-012d58a5726b fwd="179.55.143.85" dyno=web.1 connect=1ms service=17ms status=404 bytes=379 protocol=https
